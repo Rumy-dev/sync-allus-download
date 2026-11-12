@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Sync Allus</title>
+    <language>pt-BR</language>
+    <item>
+      <title>Versão 0.23.6</title>
+      <pubDate>Thu, 12 Nov 2026 14:01:11 +0000</pubDate>
+      <sparkle:version>45</sparkle:version>
+      <sparkle:shortVersionString>0.23.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Câmeras iguais separadas por pasta, menu Ajuda, roda em Mac Intel e atualizações sem chave</p>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/Rumy-dev/sync-allus-download/main/Sync-Allus-0.23.6.dmg" type="application/octet-stream" sparkle:edSignature="fB/5wnUNJXYBI1geBI+KTWpo4eKV3+wyx4R/ot5G19quenQFAB3HgGBfkqYlSQzKqGMVifQoVqqYVz1SmXeODQ==" length="4187656"/>
+    </item>
+  </channel>
+</rss>
